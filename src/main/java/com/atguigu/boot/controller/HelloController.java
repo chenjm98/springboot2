@@ -19,6 +19,7 @@ public class HelloController {
 
     @RequestMapping("/aaaa")
     public String hello(){
+        System.out.println("hello");
         return "success";
     }
 }
