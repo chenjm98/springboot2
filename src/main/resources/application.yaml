@@ -1,0 +1,9 @@
+spring:
+#  mvc:
+#    # 设置静态资源的访问前缀
+#    static-path-pattern: /res/**
+
+#  web:
+#    resources:
+#      # 改变静态资源的存放位置
+#      static-locations: classpath:/haha
